@@ -72,7 +72,7 @@ Stay tuned for updates as we continue improving this project!
 ## 🔗 Repository Link
 
 Find all the code and circuit details here:  
-👉 [GitHub Repository](https://github.com/yourusername/Line-Following-Obstacle-Avoidance-Robot)
+👉 [GitHub Repository](https://github.com/Hrichikcoder/Line-Following-Obstacle-Avoidance-Robot-Car)
 
 ---
 
